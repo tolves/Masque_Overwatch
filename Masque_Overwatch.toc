@@ -1,0 +1,10 @@
+## Interface: 110002
+
+## Plain Title: Masque: Overwatch
+## Title: Masque: Overwatch
+## Version: 1.0.0-Release
+## Author: Tofus
+## DefaultState: Enabled
+## Dependencies: Masque
+
+main.lua
